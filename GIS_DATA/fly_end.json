@@ -1,0 +1,711 @@
+{
+  "type": "FeatureCollection",
+  "name": "目的地坐标",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.992541, 15.870032] },
+      "properties": {
+        "area": "泰国",
+        "entryAmount": "0.02",
+        "outboundAmount": "485.21",
+        "info": "泰国 入境金额：$0.02万, 出境金额：$485.21万",
+        "name": "泰国",
+        "dotid": 0,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.727669, 4.535277] },
+      "properties": {
+        "area": "文莱",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.21",
+        "info": "文莱 入境金额：$0.00万, 出境金额：$0.21万",
+        "name": "文莱",
+        "dotid": 2,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.501785, 56.26392] },
+      "properties": {
+        "area": "丹麦",
+        "entryAmount": "0.00",
+        "outboundAmount": "2.33",
+        "info": "丹麦 入境金额：$0.00万, 出境金额：$2.33万",
+        "name": "丹麦",
+        "dotid": 4,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-66.590149, 18.220833] },
+      "properties": {
+        "area": "波多黎各",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.00",
+        "info": "波多黎各 入境金额：$0.00万, 出境金额：$0.00万",
+        "name": "波多黎各",
+        "dotid": 5,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [174.885971, -40.900557] },
+      "properties": {
+        "area": "新西兰",
+        "entryAmount": "0.20",
+        "outboundAmount": "50.50",
+        "info": "新西兰 入境金额：$0.20万, 出境金额：$50.50万",
+        "name": "新西兰",
+        "dotid": 6,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.990963, 12.565679] },
+      "properties": {
+        "area": "柬埔寨",
+        "entryAmount": "0.00",
+        "outboundAmount": "39.73",
+        "info": "柬埔寨 入境金额：$0.00万, 出境金额：$39.73万",
+        "name": "柬埔寨",
+        "dotid": 7,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129582999999999, 49.815273]
+      },
+      "properties": {
+        "area": "卢森堡",
+        "entryAmount": "0.00",
+        "outboundAmount": "47.70",
+        "info": "卢森堡 入境金额：$0.00万, 出境金额：$47.70万",
+        "name": "卢森堡",
+        "dotid": 8,
+        "type": "ok",
+        "weather": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.468945999999999, 60.47202399999999]
+      },
+      "properties": {
+        "area": "挪威",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.14",
+        "info": "挪威 入境金额：$0.00万, 出境金额：$0.14万",
+        "name": "挪威",
+        "dotid": 10,
+        "type": "ok",
+        "weather": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [108.277199, 14.058324] },
+      "properties": {
+        "area": "越南",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.37",
+        "info": "越南 入境金额：$0.00万, 出境金额：$0.37万",
+        "name": "越南",
+        "dotid": 11,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-95.712891, 37.09024] },
+      "properties": {
+        "area": "美国",
+        "entryAmount": "0.86",
+        "outboundAmount": "344.87",
+        "info": "美国 入境金额：$0.86万, 出境金额：$344.87万",
+        "name": "美国",
+        "dotid": 12,
+        "type": "ok",
+        "weather": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.49917, 25.12653] },
+      "properties": {
+        "area": "中国台湾",
+        "entryAmount": "98.24",
+        "outboundAmount": "78.17",
+        "info": "中国台湾 入境金额：$98.24万, 出境金额：$78.17万",
+        "name": "中国台湾",
+        "dotid": 13,
+        "type": "ok",
+        "weather": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.429499000000002, 6.428055]
+      },
+      "properties": {
+        "area": "利比里亚",
+        "entryAmount": "0.00",
+        "outboundAmount": "17.12",
+        "info": "利比里亚 入境金额：$0.00万, 出境金额：$17.12万",
+        "name": "利比里亚",
+        "dotid": 14,
+        "type": "ok",
+        "weather": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [127.766922, 35.907757] },
+      "properties": {
+        "area": "韩国",
+        "entryAmount": "1.59",
+        "outboundAmount": "1079.88",
+        "info": "韩国 入境金额：$1.59万, 出境金额：$1079.88万",
+        "name": "韩国",
+        "dotid": 15,
+        "type": "ok",
+        "weather": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.451526, 51.165691] },
+      "properties": {
+        "area": "德国",
+        "entryAmount": "0.15",
+        "outboundAmount": "76.47",
+        "info": "德国 入境金额：$0.15万, 出境金额：$76.47万",
+        "name": "德国",
+        "dotid": 17,
+        "type": "ok",
+        "weather": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.881275, 55.169438] },
+      "properties": {
+        "area": "立陶宛",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.00",
+        "info": "立陶宛 入境金额：$0.00万, 出境金额：$0.00万",
+        "name": "立陶宛",
+        "dotid": 18,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [34.851612, 31.046051] },
+      "properties": {
+        "area": "以色列",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.02",
+        "info": "以色列 入境金额：$0.00万, 出境金额：$0.02万",
+        "name": "以色列",
+        "dotid": 20,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [53.847818, 23.424076] },
+      "properties": {
+        "area": "阿联酋",
+        "entryAmount": "0.00",
+        "outboundAmount": "35.26",
+        "info": "阿联酋 入境金额：$0.00万, 出境金额：$35.26万",
+        "name": "阿联酋",
+        "dotid": 22,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [102.495496, 19.85627] },
+      "properties": {
+        "area": "老挝",
+        "entryAmount": "0.00",
+        "outboundAmount": "3.12",
+        "info": "老挝 入境金额：$0.00万, 出境金额：$3.12万",
+        "name": "老挝",
+        "dotid": 23,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.824312, 39.074208] },
+      "properties": {
+        "area": "希腊",
+        "entryAmount": "0.00",
+        "outboundAmount": "1.21",
+        "info": "希腊 入境金额：$0.00万, 出境金额：$1.21万",
+        "name": "希腊",
+        "dotid": 24,
+        "type": "ok",
+        "weather": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [25.48583, 42.733883] },
+      "properties": {
+        "area": "保加利亚",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.00",
+        "info": "保加利亚 入境金额：$0.00万, 出境金额：$0.00万",
+        "name": "保加利亚",
+        "dotid": 25,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.472962, 49.81749199999999]
+      },
+      "properties": {
+        "area": "捷克共和国",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.26",
+        "info": "捷克共和国 入境金额：$0.00万, 出境金额：$0.26万",
+        "name": "捷克共和国",
+        "dotid": 26,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [78.96288, 20.593684] },
+      "properties": {
+        "area": "印度",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.28",
+        "info": "印度 入境金额：$0.00万, 出境金额：$0.28万",
+        "name": "印度",
+        "dotid": 27,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.435973, 55.378051] },
+      "properties": {
+        "area": "英国",
+        "entryAmount": "0.39",
+        "outboundAmount": "474.14",
+        "info": "英国 入境金额：$0.39万, 出境金额：$474.14万",
+        "name": "英国",
+        "dotid": 28,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [33.429859, 35.126413] },
+      "properties": {
+        "area": "塞浦路斯",
+        "entryAmount": "0.00",
+        "outboundAmount": "6.46",
+        "info": "塞浦路斯 入境金额：$0.00万, 出境金额：$6.46万",
+        "name": "塞浦路斯",
+        "dotid": 30,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.227511999999999, 46.818188]
+      },
+      "properties": {
+        "area": "瑞士",
+        "entryAmount": "0.00",
+        "outboundAmount": "29.56",
+        "info": "瑞士 入境金额：$0.00万, 出境金额：$29.56万",
+        "name": "瑞士",
+        "dotid": 31,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.066662, 22.588638] },
+      "properties": {
+        "area": "中国香港",
+        "entryAmount": "693.53",
+        "outboundAmount": "1742.08",
+        "info": "中国香港 入境金额：$693.53万, 出境金额：$1742.08万",
+        "name": "中国香港",
+        "dotid": 32,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.550072, 47.516231] },
+      "properties": {
+        "area": "奥地利",
+        "entryAmount": "0.01",
+        "outboundAmount": "2.84",
+        "info": "奥地利 入境金额：$0.01万, 出境金额：$2.84万",
+        "name": "奥地利",
+        "dotid": 33,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.213749, 46.227638] },
+      "properties": {
+        "area": "法国",
+        "entryAmount": "0.08",
+        "outboundAmount": "80.97",
+        "info": "法国 入境金额：$0.08万, 出境金额：$80.97万",
+        "name": "法国",
+        "dotid": 34,
+        "type": "ok",
+        "weather": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.56738, 41.87194] },
+      "properties": {
+        "area": "意大利",
+        "entryAmount": "0.00",
+        "outboundAmount": "91.06",
+        "info": "意大利 入境金额：$0.00万, 出境金额：$91.06万",
+        "name": "意大利",
+        "dotid": 36,
+        "type": "ok",
+        "weather": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [105.318756, 61.52401] },
+      "properties": {
+        "area": "俄罗斯",
+        "entryAmount": "0.00",
+        "outboundAmount": "3.97",
+        "info": "俄罗斯 入境金额：$0.00万, 出境金额：$3.97万",
+        "name": "俄罗斯",
+        "dotid": 37,
+        "type": "ok",
+        "weather": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.77179699999999, 7.873053999999999]
+      },
+      "properties": {
+        "area": "斯里兰卡",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.40",
+        "info": "斯里兰卡 入境金额：$0.00万, 出境金额：$0.40万",
+        "name": "斯里兰卡",
+        "dotid": 38,
+        "type": "ok",
+        "weather": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.291265999999999, 52.132633]
+      },
+      "properties": {
+        "area": "荷兰",
+        "entryAmount": "0.32",
+        "outboundAmount": "199.02",
+        "info": "荷兰 入境金额：$0.32万, 出境金额：$199.02万",
+        "name": "荷兰",
+        "dotid": 39,
+        "type": "ok",
+        "weather": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.243322, 38.963745] },
+      "properties": {
+        "area": "土耳其",
+        "entryAmount": "0.00",
+        "outboundAmount": "1.17",
+        "info": "土耳其 入境金额：$0.00万, 出境金额：$1.17万",
+        "name": "土耳其",
+        "dotid": 40,
+        "type": "ok",
+        "weather": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.643501, 60.12816100000001]
+      },
+      "properties": {
+        "area": "瑞典",
+        "entryAmount": "0.01",
+        "outboundAmount": "1.87",
+        "info": "瑞典 入境金额：$0.01万, 出境金额：$1.87万",
+        "name": "瑞典",
+        "dotid": 41,
+        "type": "ok",
+        "weather": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.748151, 61.92410999999999]
+      },
+      "properties": {
+        "area": "芬兰",
+        "entryAmount": "0.00",
+        "outboundAmount": "4.47",
+        "info": "芬兰 入境金额：$0.00万, 出境金额：$4.47万",
+        "name": "芬兰",
+        "dotid": 42,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.74922, 40.46366700000001]
+      },
+      "properties": {
+        "area": "西班牙",
+        "entryAmount": "0.00",
+        "outboundAmount": "13.85",
+        "info": "西班牙 入境金额：$0.00万, 出境金额：$13.85万",
+        "name": "西班牙",
+        "dotid": 43,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [113.551538, 22.109432] },
+      "properties": {
+        "area": "中国澳门",
+        "entryAmount": "0.01",
+        "outboundAmount": "274.62",
+        "info": "中国澳门 入境金额：$0.01万, 出境金额：$274.62万",
+        "name": "中国澳门",
+        "dotid": 44,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.469936, 50.503887] },
+      "properties": {
+        "area": "比利时",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.00",
+        "info": "比利时 入境金额：$0.00万, 出境金额：$0.00万",
+        "name": "比利时",
+        "dotid": 45,
+        "type": "ok",
+        "weather": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-106.346771, 56.130366] },
+      "properties": {
+        "area": "加拿大",
+        "entryAmount": "0.31",
+        "outboundAmount": "90.66",
+        "info": "加拿大 入境金额：$0.31万, 出境金额：$90.66万",
+        "name": "加拿大",
+        "dotid": 47,
+        "type": "ok",
+        "weather": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [138.252924, 36.204824] },
+      "properties": {
+        "area": "日本",
+        "entryAmount": "0.78",
+        "outboundAmount": "1221.59",
+        "info": "日本 入境金额：$0.78万, 出境金额：$1221.59万",
+        "name": "日本",
+        "dotid": 48,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.679076, 43.915886] },
+      "properties": {
+        "area": "波斯尼亚和黑塞哥维那",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.01",
+        "info": "波斯尼亚和黑塞哥维那 入境金额：$0.00万, 出境金额：$0.01万",
+        "name": "波斯尼亚和黑塞哥维那",
+        "dotid": 49,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-88.49765, 17.189877] },
+      "properties": {
+        "area": "伯利兹",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.01",
+        "info": "伯利兹 入境金额：$0.00万, 出境金额：$0.01万",
+        "name": "伯利兹",
+        "dotid": 50,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [25.013607, 58.595272] },
+      "properties": {
+        "area": "爱沙尼亚",
+        "entryAmount": "0.00",
+        "outboundAmount": "1.68",
+        "info": "爱沙尼亚 入境金额：$0.00万, 出境金额：$1.68万",
+        "name": "爱沙尼亚",
+        "dotid": 51,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [101.975766, 4.210484] },
+      "properties": {
+        "area": "马来西亚",
+        "entryAmount": "23.98",
+        "outboundAmount": "113.45",
+        "info": "马来西亚 入境金额：$23.98万, 出境金额：$113.45万",
+        "name": "马来西亚",
+        "dotid": 53,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.24389, 53.41291] },
+      "properties": {
+        "area": "爱尔兰",
+        "entryAmount": "0.00",
+        "outboundAmount": "2028.42",
+        "info": "爱尔兰 入境金额：$0.00万, 出境金额：$2028.42万",
+        "name": "爱尔兰",
+        "dotid": 54,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.224454, 39.39987199999999]
+      },
+      "properties": {
+        "area": "葡萄牙",
+        "entryAmount": "0.00",
+        "outboundAmount": "0.05",
+        "info": "葡萄牙 入境金额：$0.00万, 出境金额：$0.05万",
+        "name": "葡萄牙",
+        "dotid": 57,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [133.775136, -25.274398] },
+      "properties": {
+        "area": "澳大利亚",
+        "entryAmount": "0.35",
+        "outboundAmount": "251.50",
+        "info": "澳大利亚 入境金额：$0.35万, 出境金额：$251.50万",
+        "name": "澳大利亚",
+        "dotid": 59,
+        "type": "ok",
+        "weather": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [121.774017, 12.879721] },
+      "properties": {
+        "area": "菲律宾",
+        "entryAmount": "0.00",
+        "outboundAmount": "23.39",
+        "info": "菲律宾 入境金额：$0.00万, 出境金额：$23.39万",
+        "name": "菲律宾",
+        "dotid": 61,
+        "type": "ok",
+        "weather": 2
+      }
+    }
+  ]
+}
